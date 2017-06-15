@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mainguyen98@github.io" resolutions="1x" timestamp="1497366892631">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mainguyen98@github.io" resolutions="1x" timestamp="1497497572644">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="322969870" ref="news:contact:recruitment:about-us:detail:index:menu:home-click"/>
+    <file name="master_a-master.css" crc="314119708" ref="news:contact:recruitment:about-us:detail:index:menu:home-click"/>
     <file name="news.css" crc="4044019099" ref="news"/>
-    <file name="contact.css" crc="8283382" ref="contact"/>
+    <file name="contact.css" crc="3832266374" ref="contact"/>
     <file name="recruitment.css" crc="3927516104" ref="recruitment"/>
-    <file name="about-us.css" crc="4181601704" ref="about-us"/>
+    <file name="about-us.css" crc="4099821652" ref="about-us"/>
     <file name="detail.css" crc="4127907058" ref="detail"/>
-    <file name="index.css" crc="3789798329" ref="index"/>
-    <file name="menu.css" crc="3980479678" ref="menu"/>
-    <file name="home-click.css" crc="4053527202" ref="home-click"/>
+    <file name="index.css" crc="453687304" ref="index"/>
+    <file name="menu.css" crc="4191405076" ref="menu"/>
+    <file name="home-click.css" crc="4178648664" ref="home-click"/>
   </folder>
   <folder name="assets">
     <file name="quang-cao.mp4" crc="273976446" seo="true" mt="1496500304000"/>
@@ -29,12 +29,12 @@
     <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:index:home-click"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:index:home-click"/>
     <file name="touchswipe.js" crc="3912873526" ref="phone>index:index:home-click"/>
-    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>contact:index:contact:about-us:news:recruitment:phone>about-us:phone>recruitment:home-click:detail:menu"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:contact:about-us:news:recruitment:home-click:detail:menu"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
     <file name="require.js" crc="4234670167" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
-    <file name="form_check.php" crc="3841221102" ref="phone>contact:recruitment"/>
-    <file name="form_throttle.php" crc="4048049783" ref="phone>contact:recruitment"/>
-    <file name="form_process.php" crc="3899230280" ref="phone>contact:recruitment"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>contact"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>contact"/>
     <file name="form-u7331.php" crc="253477282" ref="phone>contact"/>
     <file name="form-u7410.php" crc="500454497" ref="phone>contact"/>
     <file name="form-u7786.php" crc="4097933267" ref="phone>detail"/>
@@ -53,13 +53,19 @@
     <file name="u6806-4.png" crc="3961136975" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
     <file name="untitled-1.png" crc="202851621" seo="true" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click">
       <caption webpage="detail" alt=""/>
-      <caption webpage="recruitment" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="detail" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="home-click" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recruitment" alt=""/>
+      <caption webpage="recruitment" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="menu" alt=""/>
       <caption webpage="menu" alt=""/>
     </file>
     <file name="u6882-4.png" crc="359202098" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
@@ -261,11 +267,11 @@
     <file name="u1398-r.png" crc="408745926" ref="index"/>
     <file name="diffrent-seafood-wallpapers (1).jpg" crc="3847781572" ref="index:about-us:news:home-click">
       <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="home-click" alt=""/>
-      <caption webpage="news" alt=""/>
     </file>
-    <file name="u3858-4.png" crc="189779487" ref="index"/>
+    <file name="u3858-4.png" crc="3878695024" ref="index"/>
     <file name="u3859-4.png" crc="4156026166" ref="index"/>
     <file name="u3860.png" crc="215554285" ref="index"/>
     <file name="u3860-r.png" crc="3985403506" ref="index"/>
@@ -297,9 +303,6 @@
     <file name="u2284-m.png" crc="348804621" ref="contact"/>
     <file name="u2284-fs.png" crc="3902496806" ref="contact"/>
     <file name="redondo_patio_3.jpg" crc="90706168" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="capture-20170606-095856.jpg" crc="3784039687" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
     <file name="diffrent-seafood-wallpapers-crop-u1519.jpg" crc="4002570274" seo="true" ref="detail">
@@ -377,26 +380,30 @@
     <file name="u2544-r.png" crc="100521426" ref="detail"/>
     <file name="u2544-m.png" crc="4289387272" ref="detail"/>
     <file name="u2544-fs.png" crc="4236334650" ref="detail"/>
-    <file name="diffrent-seafood-wallpapers-crop-u3372.jpg" crc="4002570274" seo="true" ref="menu">
+    <file name="diffrent-seafood-wallpapers-crop-u3372.jpg" crc="3846387164" seo="true" ref="menu">
       <caption webpage="menu" alt=""/>
     </file>
     <file name="u3391-4.png" crc="4254691429" ref="menu"/>
     <file name="1.png" crc="4213835429" seo="true" ref="menu:phone>menu">
+      <caption webpage="menu" alt=""/>
       <caption webpage="menu" alt=""/>
     </file>
     <file name="u4104-4.png" crc="404037056" ref="menu"/>
     <file name="u4105-4.png" crc="4145250748" ref="menu"/>
     <file name="2.png" crc="3785515432" seo="true" ref="menu:phone>menu">
       <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
     </file>
     <file name="u4134-4.png" crc="102615079" ref="menu"/>
     <file name="u4137-4.png" crc="523551630" ref="menu"/>
     <file name="3.png" crc="126763987" seo="true" ref="menu:phone>menu">
       <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
     </file>
     <file name="u4162-4.png" crc="103670441" ref="menu"/>
     <file name="u4165-4.png" crc="4270243880" ref="menu"/>
     <file name="4.png" crc="362208961" seo="true" ref="menu:phone>menu">
+      <caption webpage="menu" alt=""/>
       <caption webpage="menu" alt=""/>
     </file>
     <file name="u4190-4.png" crc="531737132" ref="menu"/>
@@ -559,11 +566,8 @@
     <file name="u8325-4.png" crc="4293482359" ref="phone>about-us"/>
     <file name="u8326-4.png" crc="4236632324" ref="phone>about-us"/>
     <file name="u8327-4.png" crc="3896546265" ref="phone>about-us"/>
-    <file name="11-u8331-fr.jpg" crc="4116831696" ref="phone>about-us"/>
     <file name="u8328-4.png" crc="3818741830" ref="phone>about-us"/>
     <file name="u8330-4.png" crc="4252297551" ref="phone>about-us"/>
-    <file name="27-u8332-fr.jpg" crc="3772216140" ref="phone>about-us"/>
-    <file name="29 (1)-u8333-fr.jpg" crc="228982167" ref="phone>about-us"/>
     <file name="u8329-16.png" crc="3784644225" ref="phone>about-us"/>
     <file name="diffrent-seafood-wallpapers-crop-u8358.jpg" crc="4168119880" seo="true" ref="phone>news">
       <caption webpage="news" alt=""/>
@@ -642,38 +646,41 @@
     <file name="panorama-of-the-landscape-2328387_1920.jpg" crc="152380948" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="interior-2305694_1920.jpg" crc="438034722" ref="about-us">
+    <file name="interior-2305694_1920.jpg" crc="524922800" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="chairs-1867099_1920.jpg" crc="4050412071" ref="about-us">
+    <file name="chairs-1867099_1920.jpg" crc="486870587" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
+    <file name="interior-2305694_1920-u8332-fr.jpg" crc="4150235982" ref="phone>about-us"/>
+    <file name="chairs-1867099_1920-u8333-fr.jpg" crc="229140330" ref="phone>about-us"/>
+    <file name="panorama-of-the-landscape-2328387_1920-u8941-fr.jpg" crc="3796298386" ref="phone>about-us"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="480230428" ref="phone>detail:phone>contact:phone>menu:phone>news:phone>about-us:phone>recruitment:phone>index"/>
-      <file name="detail.css" crc="409308247" ref="phone>detail"/>
-      <file name="contact.css" crc="3994012427" ref="phone>contact"/>
-      <file name="menu.css" crc="3934338717" ref="phone>menu"/>
-      <file name="news.css" crc="428212856" ref="phone>news"/>
-      <file name="about-us.css" crc="3927679093" ref="phone>about-us"/>
-      <file name="recruitment.css" crc="3981892720" ref="phone>recruitment"/>
-      <file name="index.css" crc="4056623363" ref="phone>index"/>
+      <file name="master_a-master.css" crc="3782786970" ref="phone>detail:phone>contact:phone>menu:phone>news:phone>about-us:phone>recruitment:phone>index"/>
+      <file name="detail.css" crc="178693524" ref="phone>detail"/>
+      <file name="contact.css" crc="14965885" ref="phone>contact"/>
+      <file name="menu.css" crc="3866486839" ref="phone>menu"/>
+      <file name="news.css" crc="3973442904" ref="phone>news"/>
+      <file name="about-us.css" crc="524097436" ref="phone>about-us"/>
+      <file name="recruitment.css" crc="3837294380" ref="phone>recruitment"/>
+      <file name="index.css" crc="2532903" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3794577959" seo="true" mt="1497338374380" redirect="true"/>
-    <file name="contact.html" crc="3957003141" seo="true" mt="1497348704367" redirect="true"/>
-    <file name="detail.html" crc="467479275" seo="true" mt="1497197376894" redirect="true"/>
-    <file name="menu.html" crc="3773633267" seo="true" mt="1497197376894" redirect="true"/>
-    <file name="about-us.html" crc="192740023" seo="true" mt="1497197376894" redirect="true"/>
-    <file name="news.html" crc="493212638" seo="true" mt="1497197376894" redirect="true"/>
-    <file name="recruitment.html" crc="4250623976" seo="true" mt="1497197376894" redirect="true"/>
+    <file name="index.html" crc="49181776" seo="true" mt="1497497389148" redirect="true"/>
+    <file name="contact.html" crc="57206636" seo="true" mt="1497497389148" redirect="true"/>
+    <file name="detail.html" crc="397813516" seo="true" mt="1497497389148" redirect="true"/>
+    <file name="menu.html" crc="4044547175" seo="true" mt="1497497389148" redirect="true"/>
+    <file name="about-us.html" crc="3789998736" seo="true" mt="1497497389148" redirect="true"/>
+    <file name="news.html" crc="4280548157" seo="true" mt="1497497389148" redirect="true"/>
+    <file name="recruitment.html" crc="456070707" seo="true" mt="1497497389148" redirect="true"/>
   </folder>
-  <file name="index.html" crc="421580244" seo="true" mt="1497346378353" redirect="true"/>
-  <file name="contact.html" crc="304288127" seo="true" mt="1497348952789" redirect="true"/>
-  <file name="detail.html" crc="4055157194" seo="true" mt="1497348088159" redirect="true"/>
-  <file name="menu.html" crc="4216637672" seo="true" mt="1497366881043" redirect="true"/>
-  <file name="about-us.html" crc="4061471049" seo="true" mt="1497365846826" redirect="true"/>
-  <file name="news.html" crc="3831279317" seo="true" mt="1497366144108" redirect="true"/>
-  <file name="recruitment.html" crc="3955268382" seo="true" mt="1497366409846" redirect="true"/>
-  <file name="home-click.html" crc="3896097802" seo="true" mt="1497345112204" redirect="true"/>
+  <file name="index.html" crc="4288253555" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="contact.html" crc="205866397" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="detail.html" crc="3800786438" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="menu.html" crc="323047722" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="about-us.html" crc="179821637" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="news.html" crc="3805742544" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="recruitment.html" crc="328382393" seo="true" mt="1497497373499" redirect="true"/>
+  <file name="home-click.html" crc="3963096872" seo="true" mt="1497497528607" redirect="true"/>
 </manifest>

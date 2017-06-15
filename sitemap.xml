@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mainguyen98@github.io/index.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/index.html"/>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/detail.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/detail.html"/>
@@ -40,7 +40,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/menu.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/menu.html"/>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/about-us.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/about-us.html"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/contact.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/contact.html"/>
@@ -97,7 +97,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/news.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/news.html"/>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/recruitment.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mainguyen98@github.io/phone/recruitment.html"/>
@@ -117,7 +117,7 @@
   </url>
   <url>
     <loc>http://mainguyen98@github.io/home-click.html</loc>
-    <lastmod>2017-06-13</lastmod>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
